@@ -1,0 +1,13 @@
+{
+  "name": "typescript-inventory-validator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TypeScript project for inventory validation, typed business rules and error detection.",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}
